@@ -1,4 +1,4 @@
-<!-- To start the project -->
+ To start the project
 
 Go to the project directory on terminal
 
@@ -13,7 +13,7 @@ PASSWORD="password"
 
 For testing api(postman)
 
-<!-- To generate token  -->
+To generate token
 url:- http://localhost:8000/voucher/generate
 
 
@@ -22,8 +22,7 @@ body(raw)(json)
 	"email":"email@email.com"
 }
 
-<!-- To redeem the voucher  -->
-
+To redeem the voucher
 url:- http://localhost:8000/voucher/redeem
 
 header
