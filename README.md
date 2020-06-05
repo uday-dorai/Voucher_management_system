@@ -6,6 +6,11 @@ Steps
 1-npm init
 2-npm run dev or npm start or node index.js
 
+Add .env file
+USERNAME ="email"
+PASSWORD="password"
+
+
 For testing api(postman)
 
 <!-- To generate token  -->
