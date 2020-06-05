@@ -18,7 +18,6 @@ url:- http://localhost:8000/voucher/generate
 
 
 body(raw)(json)
-
 {
 	"email":"email@email.com"
 }
